@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/crowding_dashboard.html"
+    }
+  ]
+}
